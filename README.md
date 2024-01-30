@@ -1,5 +1,5 @@
 # Thesis_2023_BCIfNIR
-[link](https://hackmd.io/@pinhuaChen/B1wXyX8qT)
+[my readme link](https://hackmd.io/@pinhuaChen/B1wXyX8qT)
 
 # overview
 
