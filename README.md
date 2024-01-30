@@ -1,6 +1,6 @@
 # Thesis_2023_BCIfNIR
+[link](https://hackmd.io/@pinhuaChen/B1wXyX8qT)
 
-[toc]
 # overview
 
 ## 運行邏輯
